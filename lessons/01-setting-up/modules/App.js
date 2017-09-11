@@ -2,6 +2,10 @@ import React from 'react'
 
 export default React.createClass({
   render() {
-    return <div>Hello, React Router!</div>
+    return (
+    <div>
+      <h1>Hello, React Router!</h1>
+    </div>
+    )
   }
 })
